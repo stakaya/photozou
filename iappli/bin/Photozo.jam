@@ -1,0 +1,11 @@
+PackageURL = http://photozou.monysong.com/Photozo.jar
+AppSize = 25402
+AppName = Mobazo
+AppClass = Photozo
+SPsize = 204800
+UseBrowser = launch
+UseNetwork = http
+AccessUserInfo = yes
+LastModified = Thu, 23 Jul 2009 21:22:02
+GetUtn = terminalid,userid
+AppIcon = icon.gif
